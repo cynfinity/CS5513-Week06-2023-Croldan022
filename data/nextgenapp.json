@@ -1,0 +1,47 @@
+
+[
+  
+{
+    "next_generation_app": "AwesomeApp",
+    "date_of_creation": "November 15, 2022",
+    "software_company_owner": "TechCo Innovations",
+    "id": 01
+  },
+  {
+    "next_generation_app": "InnovateX",
+    "date_of_creation": "March 8, 2023",
+    "software_company_owner": "FutureTech Solutions",
+    "id": 02
+  },
+  {
+    "next_generation_app": "RevolutionaryApp",
+    "date_of_creation": "June 12, 2023",
+    "software_company_owner": "TechRevolution Labs",
+    "id": 03
+    
+  },
+  {
+    "next_generation_app": "SmartConnect",
+    "date_of_creation": "August 30, 2023",
+    "software_company_owner": "Connectivity Systems",
+    "id": 04
+  },
+  {
+    "next_generation_app": "QuantumSync",
+    "date_of_creation": "January 5, 2024",
+    "software_company_owner": "Quantum Innovations",
+    "id": 05
+  },
+  {
+    "next_generation_app": "AISolutions",
+    "date_of_creation": "April 17, 2024",
+    "software_company_owner": "AI Tech Solutions",
+    "id": 06
+  },
+  {
+    "next_generation_app": "Firebase",
+    "date_of_creation": "April 29, 2012",
+    "software_company_owner": "Google",
+    "id": 07
+  }
+]
